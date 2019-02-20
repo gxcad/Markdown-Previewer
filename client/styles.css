@@ -1,0 +1,25 @@
+body {
+  background-color: whitesmoke;
+}
+
+#editor {
+  font-size: 14pt;
+  max-width: 640px;
+  width: 80%;
+  height: 120px;
+  margin: 10px 40px 10px 40px;
+  border-radius: 5px;
+  padding: 5px 10px 5px 10px;
+}
+#preview {
+  font-size: 18pt;
+  text-align: justify;
+  background-color: white;
+  height: 100%;
+  margin: 10px 50px 10px 50px;
+  border-radius: 5px;
+  outline-style: solid;
+  outline-color: black;
+  outline-width: 1px;
+  padding: 5px 30px 5px 30px;
+}
